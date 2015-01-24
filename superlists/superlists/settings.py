@@ -1,4 +1,5 @@
 """
+(c) Mayank Kapoor 2015
 Django settings for superlists project.
 
 For more information on this file, see
